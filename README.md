@@ -1,6 +1,6 @@
 # Build a secure todo app with Django Rest Framework 🧰  
 
-[Complete Tutorial (To be added)]
+[Complete Tutorial (To be released on 29 Mar)]
 
 
 &nbsp;
